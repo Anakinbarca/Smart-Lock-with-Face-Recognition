@@ -7,6 +7,8 @@ Steps
 3)Run separately FaceRecognition.py
 4)Run SmartLock for MQTT client functions except FaceRecognition
 
+https://youtu.be/z_zbDi7vpQ4
+
 References
 
 Anchan, P. (2018, April 15). https://medium.com. Connecting Python to MQTT and IFTTT to build a Remainder Voice Assistant on Raspberry Pi: https://medium.com/@prathamanchan22/connecting-python-to-mqtt-and-ifttt-to-build-a-remainder-voice-assistant-on-raspberry-pi-6cddda9483e5
